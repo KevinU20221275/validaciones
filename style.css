@@ -1,0 +1,19 @@
+.error {
+    background-color: #ccc;
+    color: #c44;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #ccc;
+}
+
+form {
+    max-width: 750px;
+    padding: 0.5rem;
+    background-color: #fff;
+    border-radius: 0.5rem;
+}
